@@ -11,4 +11,4 @@ git checkout
 etc
 Também aprendi a como usar o VS code + terminal + site de forma eficiente, creio que mais eficiente do que quando eu usava o app do Github. Também aprendi as "boas práticas" de commits. feat, fix, docs etc.
 
-O que ainda é confuso: Ainda é confuso para mim a diferença de comentário, descrição, descrição extendida, titulo descritivo, descrição de Pull Request etc. Isso não ficou completamente claro para mim.
+O que ainda é confuso: Ainda é confuso para mim a diferença de comentário, descrição, descrição extendida, titulo descritivo, descrição de Pull Request etc. Isso não ficou completamente claro para mim. Outra coisa, eu tinha fechado a atividade eu fui olhar as branches e não ta aparecendo a branch feat/versao-alice, apesar de eu ter certeza que ela foi criada e que eu dei merge nela, mas ao mesmo tempo a branch feat/versao-joao ainda existe, realmente não sei o que aconteceu.
