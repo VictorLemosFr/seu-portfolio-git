@@ -1,1 +1,1 @@
-Linha 1: Versão estável do sistema
+Linha 1: Versão modificada pela Branch A
