@@ -1,1 +1,0 @@
-Alice prefere rosa
